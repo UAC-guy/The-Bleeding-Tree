@@ -60,5 +60,4 @@ authors for any of their resources modified or included in this file.
 
 * Where to get the file that this text file describes *
 
-Web sites:
-FTP sites:
+Web sites: https://github.com/UAC-guy/The-Bleeding-Tree
